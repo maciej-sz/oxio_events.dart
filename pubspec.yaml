@@ -1,0 +1,12 @@
+name: oxio_events
+version: 0.0.1
+description: >
+  Events for Dart.
+author: Maciej Szopinski <maciej.sz@gmail.com>
+dependencies:
+  oxio_std:
+    git: https://github.com/maciej-sz/oxio_std.dart.git
+    version: ">=0.0.1"
+dev_dependencies:
+  unittest: '>=0.11.0'
+dependency_overrides:
